@@ -15,6 +15,7 @@ I'm a fullstack developer currently working on a sass and as a development analy
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=teusmamf&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/MdGUUTVHk7s1BA5Pyk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bigbangtheory-season-1-episode-9-big-bang-theory-MdGUUTVHk7s1BA5Pyk">via GIPHY</a></p>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
