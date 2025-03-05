@@ -1,45 +1,27 @@
-### Hi there, I'm Mateus Martins Fernandes! 👋
+# 💫 About Me:
+I'm a fullstack developer currently working on a sass and as a development analyst.<br>Currently learning react native and infrastructure with AWS.<br>the technologies I use are reactjs,javascript,html,css,nodejs,php,java,mongodb,mysql,sql, python,aws ec2.
 
-I'm a **Fullstack Developer** from Brazil 🇧🇷, passionate about building innovative solutions with modern web and backend technologies.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fernandismateus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-martins-fernandes-541aa1234/) 
 
-### 🚀 Tech Stack
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=teusmamf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=teusmamf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teusmamf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **Frontend:** React.js, JavaScript, HTML, CSS  
-- **Backend:** Node.js, PHP, Java  
-- **Databases:** MongoDB, MySQL, SQL  
-- **Others:** Python, AWS EC2  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=teusmamf&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 📫 Connect with me:
-
-- 🌍 [Portfolio](https://mateusmartinsfernandes.netlify.app/)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mateus-martins-fernandes-541aa1234/)
-
----
-
-### 🧠 "Bazinga!" – Sheldon Cooper
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200" alt="Sheldon Cooper Bazinga!">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=teusmamf&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=teusmamf&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📊 GitHub Stats & Activity Tracker
-
-![Mateus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusmartinsfernandes&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmartinsfernandes&layout=compact&theme=radical)
-
-**Commit Streak:**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mateusmartinsfernandes&theme=radical)](https://git.io/streak-stats)
-
----
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mateusmartinsfernandes&theme=radical&no-frame=true&margin-w=5)
-
----
-
-💡 *"Change is the only constant in software development."* 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
